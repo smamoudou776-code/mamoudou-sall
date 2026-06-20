@@ -1,6 +1,6 @@
 import streamlit as cv
 # configuration de la papge
-cv .set_page_config(page_title="cv - CHEIKH IBRA NDIAYE", page_icon="photo.pjg",layout= "centered")#
+cv .set_page_config(page_title="cv -     Mamadou sall", page_icon="photo.pjg",layout= "centered")#
 # titre
 cv.title("Mamadou Sall")
 cv.title("Parcour ")
