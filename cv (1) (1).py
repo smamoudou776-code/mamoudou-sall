@@ -3,8 +3,6 @@ import streamlit as cv
 cv .set_page_config(page_title="cv - CHEIKH IBRA NDIAYE", page_icon="photo.pjg",layout= "centered")#
 # titre
 cv.title("Mamadou Sall")
-
-
 cv.title("Parcour ")
 cv.write(" Premier Année-BTS Geomatique  ")
 cv. write ("Centrte dentrepreneuriat et de Developpement Technique ")
