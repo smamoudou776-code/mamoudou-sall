@@ -21,9 +21,7 @@ cv.write("Anacondant,Python,Jupterlab streamlit")
 with cv.sidebar:
      cv.write("Email:smamadou776@gmail.com")
      cv.write("Adresse:Dakar/Sénégal")
-
-
-    cv.write( "Situation Matrimonial:Célibataire ")
+     cv.write( "Situation Matrimonial:Célibataire ")
 
 
 
